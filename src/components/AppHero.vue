@@ -13,7 +13,7 @@ export default {
 <template>
     <div>
         <p>{{ testo }}</p>
-        <img src="../../public/desert.jpg">
+        <img src="/desert.jpg">
     </div>
 </template>
 
